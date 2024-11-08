@@ -1,5 +1,4 @@
-# Penetration Test & Security Assessment - ENPM685 Pictures, Inc.
-
+# ENPM685 Pictures, Inc. - Penetration Test & Security Assessment
 This repository contains documentation and findings from a security assessment and penetration test conducted for **ENPM685 Pictures, Inc.** The assessment was performed to evaluate the security posture of the company and provide recommendations for improvement, with a particular focus on the risks posed by their cost-effective IT setup.
 
 ## Background
